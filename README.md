@@ -23,3 +23,6 @@ No more password misery, no more need to keep keys in a safe or remember anythin
 
 ON Dev,
 STAY TUNED!!
+
+Moved to https://modelingsolver.github.io/chatapi.html   ...
+🚀🚀🚀
